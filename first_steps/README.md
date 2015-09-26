@@ -29,7 +29,7 @@ HINT: if you're lazy you can even use the provided notebook (ipython) to play ar
 A easy way to start coding in python is by using a command line interface (CLI). It's what you get when you type "python" or "ipython".
 You could write your entire program in the CLI, but I promise you you don't want to do this ;) !
 
-Still, it's easy to start with the CLI because you can write code and immediately see what happens. And in this course you won't even need python on your computer since there is a notebook already available on GitHub for you to play with! Have a look.
+Still, it's easy to start with the CLI because you can write code and immediately see what happens. And in this course you won't even need python on your computer since there is a notebook already available on GitHub you could have a look at! But if you want to play around you need to install at least python.
 
 
 ## Installation
