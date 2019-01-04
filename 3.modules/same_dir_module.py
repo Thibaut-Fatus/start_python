@@ -6,7 +6,7 @@
 ## you can call the function with or without an argument
 ## you can even call it with a keyword argument: see main function
 def some_function(arg="without argument"):
-    print "I'm some_function called {t}".format(t=arg)
+    print("I'm some_function called {t}".format(t=arg))
 
 
 if __name__ == "__main__":
